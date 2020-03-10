@@ -1,0 +1,12 @@
+/*Saya Muhammad Rheza Alvarez Satriadipura mengerjakan
+Kompetisi TP1 dalam mata kuliah PBO untuk keberkahanNya
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
+
+> Kesulitan:
+- Awal2 agak Sulit memahami karena cukup banyak fitur-fitur baru di Visual Studio
+- Program hanya bisa login dan logout saja
+- Belum memahami foreach pada program kali ini
+- Sulit mengimplementasikan algoritma pemrograman yang dipahami sejauh ini pada Visual Studio
+
+> Hal Baru:
+- Mampu mempelajari cara pemrograman UI
